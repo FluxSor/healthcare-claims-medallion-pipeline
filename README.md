@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Enterprise | Claims Medallion Pipeline
 
 ## Overview
@@ -194,6 +193,3 @@ In production environments, raw data would reside in cloud storage (e.g., Databr
 
 Yikum Shiferaw  
 Senior Data Analyst / Data Engineering Focus
-
-## Process Completed
->>>>>>> 2525877 (Resolved merge confilict)
